@@ -55,7 +55,7 @@ ROOT_URLCONF = 'familia_info.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r"C:\Users\Usuario\Desktop\MVT_DiegoChavez\MVT_DiegoChavez\familia_info\templates"],
+        'DIRS': [r"C:\Users\Usuario\Desktop\Python Github\MVT_DiegoChavez\MVT_DiegoChavez\familia_info\templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
